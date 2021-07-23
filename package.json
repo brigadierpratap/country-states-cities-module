@@ -1,0 +1,23 @@
+{
+  "name": "country-states-cities-module",
+  "version": "1.0.0",
+  "description": "Country State City provider ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Country",
+    "State",
+    "City",
+    "Countries",
+    "States",
+    "Cities",
+    "Country-State-City"
+  ],
+  "author": "Pawan Singh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
