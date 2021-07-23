@@ -1,7 +1,7 @@
 {
-  "name": "country-states-cities-module",
+  "name": "country-state-cities-module",
   "version": "1.0.0",
-  "description": "Country State City provider ",
+  "description": "Provides a list of Countries States and cities in form of a JSON Array ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
