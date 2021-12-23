@@ -6,7 +6,7 @@ const axios = require('axios')
  */
 module.exports= async(countryName)=>{
     try {
-        const res= await axios.get(`https://vax.hyperx.cloud/states?country=${countryName}`)
+        const res= await axios.get(`https://countrystatecityapi.herokuapp.com/states?country=${countryName}`)
         return res.data
 
     } catch (error) {
